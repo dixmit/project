@@ -1,0 +1,1 @@
+This module shows a kanban view on readonly portal user when we share with them a project.
